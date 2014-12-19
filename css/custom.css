@@ -1,0 +1,27 @@
+/* CUSTOM CSS */
+
+.topPadding	{
+  padding-top: 17px;
+}
+
+/* removes bullets for addresses contacts */
+ul.address  {
+  padding: 2px;
+  list-style-type:none;
+}
+
+h1 b {
+	color: #009BCD;
+	text-shadow: 2px 2px 0px #444444;
+}
+
+/* when hovering over h6 links */
+h6 span:hover {
+	padding: 5px;
+	background-color: #009BCD;
+} 
+
+/* making link images smaller */
+img.small {
+	max-width: 20%;
+}
